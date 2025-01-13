@@ -1,7 +1,6 @@
-# Online-Job-Banking-System
-# **Online Job Board Project**
+# **CareerCove**
 
-This project is a semester-long group assignment for a Database Systems class, designed to showcase the integration of database management and a user-friendly graphical interface. The application is an online job board where recruiters and applicants can interact through a variety of features.
+This project is a semester-long group assignment for a Database Systems class, designed to showcase the integration of database management and a user-friendly graphical interface (GUI). The application is an online job board where recruiters and applicants can interact through a variety of features.
 
 ## **Features**
 
@@ -23,5 +22,4 @@ This project is a semester-long group assignment for a Database Systems class, d
 - **Backend:** Java for database interaction and logic processing.
 - **Frontend:** Java Swing for building the graphical user interface.
 
-This project demonstrates the fundamental principles of database design, SQL operations, and software development using Java.
 
